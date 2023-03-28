@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "6422fdd609994c95ba943299"
+  },
+  "DNI": "ObjectId(6422fd3109994c95ba943296) ",
+  "NumSerie": "ObjectId(6422fd4609994c95ba943297)",
+  "Comienzo": "20-10-2015",
+  "Fin": "10-12-2022"
+},{
+  "_id": {
+    "$oid": "6422fe4709994c95ba94329a"
+  },
+  "DNI": "ObjectId(6422fd1e09994c95ba943295) ",
+  "NumSerie": "ObjectId(6422fd5609994c95ba943298)",
+  "Comienzo": "12-09-2018",
+  "Fin": "26-11-2023"
+}]

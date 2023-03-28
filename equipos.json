@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "6422fd4609994c95ba943297"
+  },
+  "nombre": "Agujas sin frontera",
+  "Facultad": "ObjectId(6422fcc509994c95ba943294)"
+},{
+  "_id": {
+    "$oid": "6422fd5609994c95ba943298"
+  },
+  "nombre": "Misiles sin agua",
+  "Facultad": "ObjectId(6422fcc509994c95ba943294)"
+}]

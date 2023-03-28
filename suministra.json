@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "6422e09909994c95ba943284"
+  },
+  "Precio": "399",
+  "CodigoPieza_id": "ObjectId(6422dd3609994c95ba943281)",
+  "proveedor_id": "ObjectId(6422da3509994c95ba94327f)"
+},{
+  "_id": {
+    "$oid": "6422e0ab09994c95ba943285"
+  },
+  "Precio": "399",
+  "CodigoPieza_id": "ObjectId(6422dd3d09994c95ba943282)",
+  "proveedor_id": "ObjectId(6422da3509994c95ba94327f)"
+}]

@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "6422dd3609994c95ba943281"
+  },
+  "Nombre": "Tuerca"
+},{
+  "_id": {
+    "$oid": "6422dd3d09994c95ba943282"
+  },
+  "Nombre": "Tornillo"
+},{
+  "_id": {
+    "$oid": "6422e08609994c95ba943283"
+  },
+  "Precio": "399",
+  "CodigoPieza_id": "ObjectId(6422dd3609994c95ba943281)",
+  "proveedor_id": "ObjectId(6422da3509994c95ba94327f)"
+}]

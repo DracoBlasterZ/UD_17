@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "6422c17c09994c95ba94326f"
+  },
+  "Nombre": "Pedro",
+  "Apellidos": "Jose",
+  "Departamento": "ObjectId(6422c0f509994c95ba94326c)"
+},{
+  "_id": {
+    "$oid": "6422c19909994c95ba943270"
+  },
+  "Nombre": "Palmira",
+  "Apellidos": "Logote",
+  "Departamento": "ObjectId(6422c0f509994c95ba94326c)"
+}]

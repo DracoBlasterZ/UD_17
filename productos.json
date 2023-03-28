@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "6422f86109994c95ba94328d"
+  },
+  "Nombre": "Sandia Lite",
+  "Precio": "1.25"
+},{
+  "_id": {
+    "$oid": "6422f86809994c95ba94328e"
+  },
+  "Nombre": "Manzana Prime",
+  "Precio": "20.30"
+}]

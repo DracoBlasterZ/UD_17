@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "6422fd1e09994c95ba943295"
+  },
+  "nomApels": "George Piedra",
+  "Facultad": "ObjectId(6422fcbf09994c95ba943293)"
+},{
+  "_id": {
+    "$oid": "6422fd3109994c95ba943296"
+  },
+  "nomApels": "Lisa Lisa",
+  "Facultad": "ObjectId(6422fcc509994c95ba943294)"
+}]

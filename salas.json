@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "6422ca7e09994c95ba943277"
+  },
+  "Nombre": "OhZines",
+  "Pelicula": "ObjectId(6422c93a09994c95ba943275)"
+},{
+  "_id": {
+    "$oid": "6422ca9309994c95ba943278"
+  },
+  "Nombre": "UwUCines",
+  "Pelicula": "ObjectId(6422c95109994c95ba943276)"
+}]

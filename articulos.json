@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "6422b9d909994c95ba943269"
+  },
+  "Nombre": "raton",
+  "Precio": "20",
+  "Fabricante": "ObjectId(6422b8cb09994c95ba943267)"
+},{
+  "_id": {
+    "$oid": "6422b9d909994c95ba94326a"
+  },
+  "Nombre": "Pantalla",
+  "Precio": "300",
+  "Fabricante": "ObjectId(6422b8cb09994c95ba943268)"
+}]

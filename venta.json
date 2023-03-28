@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "6422fb1e09994c95ba94328f"
+  },
+  "Cajero": "ObjectId(6422f67309994c95ba943289",
+  "Maquina": "ObjectId(6422f63009994c95ba943286)",
+  "Producto": "ObjectId(6422f86109994c95ba94328d)"
+},{
+  "_id": {
+    "$oid": "6422fb3909994c95ba943290"
+  },
+  "Cajero": "ObjectId(6422f67d09994c95ba94328a",
+  "Maquina": "ObjectId(6422f63309994c95ba943287)",
+  "Producto": "ObjectId(6422f86809994c95ba94328e)"
+}]

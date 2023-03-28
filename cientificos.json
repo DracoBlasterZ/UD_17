@@ -1,0 +1,11 @@
+[{
+  "_id": {
+    "$oid": "6423002609994c95ba94329b"
+  },
+  "NomApels": "Juan Alberto Colmenar"
+},{
+  "_id": {
+    "$oid": "6423003509994c95ba94329c"
+  },
+  "NomApels": "Maria Carmen Guadalupe"
+}]
